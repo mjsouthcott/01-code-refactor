@@ -11,12 +11,12 @@ This is the homepage for the Horiseon Marketing Agency written in HTML5/CSS3. It
 
 ## Installation
 
-Click on the following URL to view the website in your browser: [https://mjsouthcott.github.io/01-code-refactor/](https://mjsouthcott.github.io/01-code-refactor/)
+Click on the following URL to view the website in your browser: [https://mjsouthcott.github.io/01-code-refactor/](https://mjsouthcott.github.io/01-code-refactor/).
 
 
 ## Credits
 
-Matthew Southcott, Front-end Developer, Company X ([https://github.com/mjsouthcott](https://github.com/mjsouthcott))
+Matthew Southcott, Front-end Developer, Company X
 
 
 ## License
