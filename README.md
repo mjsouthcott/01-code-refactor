@@ -1,8 +1,8 @@
-# Horiseon Marketing Agency Website
+# Horiseon Website
 
 ## Description
 
-This is the homepage for the Horiseon Marketing Agency written in HTML5/CSS3. Its source code has been refactored to ensure:
+This is the homepage for Horiseon, a marketing agency specializing in search engine optimization, online reputation management and social media marketing, written in HTML5/CSS3. The source code has been refactored to ensure:
 - Web accessibility
 - Long-term sustainability
 - Efficiency
