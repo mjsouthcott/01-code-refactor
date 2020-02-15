@@ -1,26 +1,26 @@
 # Horiseon Marketing Agency Website
 
 ## Description
-```
+
 This is the homepage for the Horiseon Marketing Agency written in HTML5/CSS3. Its source code has been refactored to ensure:
 - Web accessibility
 - Long-term sustainability
 - Efficiency
 - Semantic consistency
-```
+
 
 ## Installation
-```
-Click on the following URL to view the website (hosted on GitHub Pages) in your browser: https://mjsouthcott.github.io/01-code-refactor/.
-```
+
+Click on the following URL to view the website in your browser: [https://mjsouthcott.github.io/01-code-refactor/](https://mjsouthcott.github.io/01-code-refactor/)
+
 
 ## Credits
-```
-Matthew Southcott, Company X (https://github.com/mjsouthcott)
-```
+
+Matthew Southcott, Front-end Developer, Company X ([https://github.com/mjsouthcott](https://github.com/mjsouthcott))
+
 
 ## License
-```
+
 MIT License
 
 Copyright (c) 2020 Matthew James Southcott
@@ -42,4 +42,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
